@@ -1,0 +1,8 @@
+2017-09-07 15:19:06 ERROR easytest.loader.CSVDataLoader:95 - The specified file was not found. The path is : src/test/resources/data.csv
+2017-09-07 15:19:06 ERROR easytest.loader.CSVDataLoader:96 - Continuing with the loading of next file.
+2017-09-07 15:20:13 ERROR easytest.loader.CSVDataLoader:95 - The specified file was not found. The path is : src/test/resources/data.csv
+2017-09-07 15:20:13 ERROR easytest.loader.CSVDataLoader:96 - Continuing with the loading of next file.
+2017-09-07 15:20:28 ERROR easytest.loader.CSVDataLoader:95 - The specified file was not found. The path is : /src/test/resources/data.csv
+2017-09-07 15:20:28 ERROR easytest.loader.CSVDataLoader:96 - Continuing with the loading of next file.
+2017-09-07 15:22:33 ERROR easytest.loader.CSVDataLoader:95 - The specified file was not found. The path is : D:\Tsyhanko\workspace\RestAssutredTesting\src\test\resources\data.csv
+2017-09-07 15:22:33 ERROR easytest.loader.CSVDataLoader:96 - Continuing with the loading of next file.
